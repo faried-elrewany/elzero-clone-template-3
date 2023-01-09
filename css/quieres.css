@@ -1,0 +1,24 @@
+/**************************************************/
+/* -------------        ------------------------- */
+/**************************************************/
+
+/* small screens   متنساتش تحولها ل em */
+@media (min-width: 768px) {
+  .container {
+    width: 75rem;
+  }
+}
+
+/* small screens   متنساتش تحولها ل em */
+@media (min-width: 992px) {
+  .container {
+    width: 97rem;
+  }
+}
+
+/* small screens   متنساتش تحولها ل em */
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
